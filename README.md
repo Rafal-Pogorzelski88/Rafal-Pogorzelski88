@@ -1,8 +1,8 @@
 ### Hello World 👋
 
 
-- 🔧 I’m currently working on Bixby Voice assistant
-- 📖 I’m currently learning NLP/Python
+- 🔧 I’m currently working on Bixby Voice assistant as my day job
+- 📖 I'm interested in GIS technology, python and computational linguistics as well
 - 💪 I’m looking to improve my python skills 🐍
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rafal-lukasz-pogorzelski/); raf88pogo@gmail.com
