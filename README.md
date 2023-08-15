@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 
-- 🔧 I’m currently working on Bixby Voice assistant as my day job
+- 🔧 I’m working as a software tester 
 - 📖 I know it is a cliché but I'm definitely a renaissance type of person
 - 💪 I’m looking to improve my python skills 🐍
 - 💬 Ask me about anything
